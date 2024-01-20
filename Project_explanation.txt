@@ -1,0 +1,10 @@
+**** >>>> Steps
+   I) create tempalate.py
+  II) on requirements.txt add all requirements and -e . (for making all local packages)
+  III) make setup.py for making all files to be a package 
+  III) make logging >>>>tracking events that happen when some software runs
+  IV) utils.py>> using frequently iin our code 
+           common.py
+                
+
+
